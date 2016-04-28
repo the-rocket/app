@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015  Alashov Berkeli
+  ~ It is licensed under GNU GPL v. 2 or later. For full terms see the file LICENSE.
+  -->
+
+<resources>
+    <string name="lorem.big" translatable="false">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="lorem.large" translatable="false">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum earum, voluptatibus quaerat repellendus tempore inventore in consequuntur dicta vitae velit.</string>
+    <string name="lorem.medium" translatable="false">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, est?</string>
+    <string name="lorem.small" translatable="false">Lorem ipsum dolor sit amet.</string>
+    <string name="lorem.short" translatable="false">Lorem ipsum.</string>
+    <string name="date" translatable="false">20 Jan, 2016 (15:46)</string>
+</resources>

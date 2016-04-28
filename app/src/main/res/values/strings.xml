@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App</string>
+
+    <string name="photo.add.title">Add image</string>
+    <string name="photo.title.hint">Type photo title</string>
+    <string name="photo.choose">Choose photo</string>
+
+</resources>

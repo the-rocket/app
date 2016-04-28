@@ -1,0 +1,28 @@
+<!--
+  ~ Copyright (c) 2015  Alashov Berkeli
+  ~ It is licensed under GNU GPL v. 2 or later. For full terms see the file LICENSE.
+  -->
+
+<resources>
+    <dimen name="content.margin">14dp</dimen>
+    <dimen name="content.margin.list">8dp</dimen>
+    <dimen name="content.margin.between">8dp</dimen>
+    <dimen name="content.margin.between.small">5dp</dimen>
+
+    <dimen name="content.padding.list">3.5dp</dimen>
+    <dimen name="content.padding">16dp</dimen>
+    <dimen name="content.padding.small">10dp</dimen>
+    <dimen name="content.padding.text">5dp</dimen>
+
+    <dimen name="text.line.space">2.5dp</dimen>
+
+    <dimen name="text.xxxlarge">30sp</dimen>
+    <dimen name="text.xxlarge">25sp</dimen>
+    <dimen name="text.xlarge">22sp</dimen>
+    <dimen name="text.larger">20sp</dimen>
+    <dimen name="text.large">16sp</dimen>
+    <dimen name="text.medium">14sp</dimen>
+    <dimen name="text.small">11sp</dimen>
+
+    <dimen name="photo.size">80dp</dimen>
+</resources>
