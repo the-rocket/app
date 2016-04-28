@@ -17,7 +17,7 @@ import butterknife.Bind;
  */
 public class PickerActivity extends BaseActivity {
 
-    private final static int REQUEST_PHOTO = 100101;
+    private final static int REQUEST_PHOTO = 100;
 
     private Photo mPhoto = new Photo();
 
